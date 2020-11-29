@@ -1,0 +1,8 @@
+{
+    "title": "HonKit and GitBook Sandbox",
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    }
+}
