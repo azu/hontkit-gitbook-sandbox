@@ -1,4 +1,4 @@
 [build]
   publish = "_book/"
-  command = "npm run honkit:build"
+  command = "npm run gitbook:build"
   functions = "functions/"
