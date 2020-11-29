@@ -12,6 +12,8 @@ npm run honkit:build
 npm run honkit:serve
 ```
 
+- URL: <https://hontkit-gitbook-sandbox.netlify.app/>
+
 ## GitBook
 
 Build by [GitBook (Legacy)](https://github.com/GitbookIO/gitbook)
