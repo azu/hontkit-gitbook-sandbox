@@ -1,0 +1,4 @@
+[build]
+  publish = "_book/"
+  command = "npm run honkit:build"
+  functions = "functions/"
