@@ -2,6 +2,8 @@
 
 [HonKit](https://github.com/honkit/honkit) and [GitBook (Legacy)](https://github.com/GitbookIO/gitbook) behavior test page.
 
+Source: [azu/hontkit-gitbook-sandbox: HonKit and GitBook sandbox.](https://github.com/azu/hontkit-gitbook-sandbox)
+
 ## HonKit
 
 Build by [HonKit](https://github.com/honkit/honkit)
